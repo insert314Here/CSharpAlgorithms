@@ -63,9 +63,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TreeAlgorithms", "TreeAlgor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearchTrees", "BinarySearchTrees\BinarySearchTrees.csproj", "{8B6F0BF3-076A-4CC6-8F87-1AD9F10CED24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeTraversals", "TreeTraversals\TreeTraversals.csproj", "{D538B9E5-C641-4C11-8D13-47E23FB8C6F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TreeTraversals", "TreeTraversals\TreeTraversals.csproj", "{D538B9E5-C641-4C11-8D13-47E23FB8C6F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopSearchAlgoTrees", "DevelopSearchAlgoTrees\DevelopSearchAlgoTrees.csproj", "{7EE4A675-DF86-4653-BB21-CDFCF5886CEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevelopSearchAlgoTrees", "DevelopSearchAlgoTrees\DevelopSearchAlgoTrees.csproj", "{7EE4A675-DF86-4653-BB21-CDFCF5886CEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice", "practice\practice.csproj", "{1CF25961-2D2E-421F-BA33-7CB57EFFACF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -173,6 +175,10 @@ Global
 		{7EE4A675-DF86-4653-BB21-CDFCF5886CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EE4A675-DF86-4653-BB21-CDFCF5886CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EE4A675-DF86-4653-BB21-CDFCF5886CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CF25961-2D2E-421F-BA33-7CB57EFFACF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF25961-2D2E-421F-BA33-7CB57EFFACF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF25961-2D2E-421F-BA33-7CB57EFFACF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF25961-2D2E-421F-BA33-7CB57EFFACF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
